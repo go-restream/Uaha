@@ -36,7 +36,7 @@
 
 ## 📢 Changelog
 
-### v0.1.0-beta (2026-02-11)
+### v0.1.0-beta (2026-02-10)
 
 #### 🎉 First Public Beta Release
 
